@@ -59,7 +59,7 @@ Untuk lebih jelasnya, berikut pin I/O digtial dan analog
 <h2>Modul Praktikum Embedded System dan Mikrokontroler</h2>
 Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
 
-<h3><a href="">Konsep GPIO</a></h3>
+<h3><a href="/Modul 1: Konsep GPIO">Konsep GPIO</a></h3>
 <p>Praktikum ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.</p>
 
 <h3><a href="">Komunikasi Serial</a></h3>
