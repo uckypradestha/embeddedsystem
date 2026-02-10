@@ -76,6 +76,11 @@ Untuk lebih jelasnya, berikut pin I/O digtial dan analog
 <img src="../image/ArduinoUno_OfficialPinOutDiagram_DigitalIOPinsMarked.png">
 
 <h2>Menghidupkan dan Mematikan LED pada Pin 12 Dengan Menggunakan Program</h2>
+
+<video width="100%" controls>
+  <source src="../video/led_blink.mp4" type="video/mp4">
+</video>
+
 <p>LED Blink sebagai project Hello World di Embedded System dapat disimak sebagai berikut:</p>
 <table border="1" align="center" width="100%" cellpadding="0" cellspacing="0">
   <tr>
