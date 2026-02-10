@@ -81,7 +81,7 @@ Untuk lebih jelasnya, berikut pin I/O digtial dan analog
   <tr>
     <td>
       <h2>
-        <a href="led_blink/led_blink.ino">
+        <a href="led_blink.ino">
           LED Blink Dengan Arduino
         </a>
       </h2>
