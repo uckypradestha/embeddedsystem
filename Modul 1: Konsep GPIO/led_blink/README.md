@@ -7,7 +7,7 @@
 <p>Pada tugas pendahuluan, sebuah LED diperlukan. Dalam hal ini, anode pada LED (berkaki Panjang) dihubungkan pada Pin 11 dan katoda (berkaki pendek) dihubungkan ke pin GND seperti yang terlihat pada Gambar. LED akan dikendalikan menggunakan program. Kita akan membuat kode C/C++ pada Arduino sehingga Pin 11 diberi tegangan 5V secara otomatis, yang menyebabkan LED menyala.</p>
 
 <h2>Membuat Rangkaian</h2>
-<img src="../image/LED_Blink.png">
+<img src="../../image/LED_Blink.png">
 
 <h2>Alat dan Bahan</h2>
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
@@ -19,13 +19,13 @@
 
   <tr align="center">
     <td>
-      <img src="../image/arduino_uno.png" width="260"><br>
+      <img src="../../image/arduino_uno.png" width="260"><br>
     </td>
     <td>
-      <img src="../image/RedLED_Fritzing.png" width="130"><br>
+      <img src="../../image/RedLED_Fritzing.png" width="130"><br>
     </td>
     <td>
-      <img src="../image/Resistor220_Fritzing.png" width="200"><br>
+      <img src="../../image/Resistor220_Fritzing.png" width="200"><br>
     </td>
   </tr>
 
@@ -76,4 +76,4 @@ https://github.com/user-attachments/assets/d73ae3f6-8689-45e6-a6dd-03096f7abbfc
   </tr>
 </table>
 <h2></h2>
-<img src="../image/Footer.jpg">
+<img src="../../image/Footer.jpg">
