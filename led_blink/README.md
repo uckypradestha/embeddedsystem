@@ -38,9 +38,9 @@
 
 Pastikan sambungkan wiring kabel sesuai dengan petunjuk berikut:
 <ul>
-  <li>(+) LED -------------- Pin 11</li>
-  <li>(-) LED -------------- Resistor</li>
-  <li>Resistor ------------- Pin GND</li>
+  <li>(+) LED -------------- Resistor</li>
+  <li>(-) LED -------------- Pin GND</li>
+  <li>Resistor ------------- Pin 11</li>
 </ul>
 
 <p>Pada tahap berikutnya, LED akan dikendalikan menggunakan program. Kita akan membuat kode C/C++ pada Arduino sehingga Pin 11 diberi tegangan 5V secara otomatis, yang menyebabkan LED menyala.</p>
