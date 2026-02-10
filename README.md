@@ -8,11 +8,18 @@
 <h2>Mengapa Mempelajari Physical Computing?</h2>
 
 Physical computing dipelajari karena memungkinkan komputer berinteraksi langsung dengan dunia fisik melalui sensor dan aktuator, sehingga komputasi tidak lagi terbatas pada layar, tetapi hadir secara kontekstual, cerdas, dan bermakna dalam kehidupan nyata. Selain itu, mempelajari physical computing karena adanya tiga tren teknologi dan sosial yang saling berkaitan:
-
 <ul>
-  <li>Gerakan DIY/Makers, yang telah membuka peluang luas untuk berinteraksi dan bekerja dengan perangkat keras yang memiliki hambatan masuk yang relatif rendah (misalnya Arduino), menyediakan peluang baru untuk menggabungkan bentuk fisik dengan komputasi (misalnya melalui digital fabrication), serta menyediakan banyak sekali materi dan tutorial daring untuk membantu proses pembelajaran (lihat daftar sumber di sini).
-</li>
-<li>Meluasnya penggunaan komputer mobile yang sangat kuat dan perangkat IoT yang hampir selalu aktif dan hampir selalu kita bawa atau berada di sekitar kita, serta dilengkapi dengan beragam sensor seperti akselerometer, giroskop, dan sensor lokasi, yang memungkinkan bentuk-bentuk baru interaksi komputasi di luar desktop tradisional.</li>
-<li>Kemajuan dalam machine learning dan computer vision, serta semakin matangnya toolkit dan API ML/CV, yang memungkinkan kita memproses dan memanfaatkan data sensor dengan cara-cara baru untuk interaksi manusia–komputer (tanpa harus menjadi ahli ML atau CV terlebih dahulu).</li>
+  <li>Physical computing menjadi sangat relevan saat ini karena perkembangan teknologi dan perubahan cara manusia berinteraksi dengan komputer. Gerakan DIY dan komunitas maker membuat perangkat keras seperti Arduino mudah diakses oleh siapa saja, sehingga kita bisa dengan cepat membuat dan menguji sistem yang menggabungkan bentuk fisik dan komputasi. Selain itu, banyak tutorial dan sumber belajar tersedia secara gratis di internet.</li>
+  <li>Komputer tidak lagi hanya berbentuk PC atau laptop. Smartphone dan perangkat IoT selalu aktif dan berada di sekitar kita, serta dilengkapi dengan berbagai sensor yang memungkinkan komputer memahami gerakan, posisi, dan kondisi lingkungan. Hal ini membuka peluang interaksi baru yang tidak bergantung pada layar, keyboard, atau mouse.</li>
+  <li>Kemajuan machine learning dan computer vision memungkinkan data dari sensor diolah secara cerdas untuk menciptakan interaksi manusia–komputer yang lebih alami, tanpa mengharuskan pengguna menjadi ahli di bidang kecerdasan buatan.</li>
 </ul>
 
+Dengan kondisi ini, cara berinteraksi dengan komputer tidak lagi terbatas pada antarmuka grafis tradisional seperti jendela, ikon, menu, dan pointer. Physical computing menghadirkan model interaksi baru yang lebih kontekstual, alami, dan terhubung langsung dengan dunia fisik.
+
+<h2>Prasyarat Pembelajaran</h2>
+
+<p>Untuk mengikuti materi ini, peserta diharapkan sudah memiliki pengalaman dasar dalam pemrograman, seperti memahami variabel, perulangan, fungsi, dan percabangan. Pemrograman mikrokontroler akan menggunakan bahasa C/C++, tetapi peserta tidak harus sudah menguasai C/C++ sebelumnya. Jika sudah pernah menggunakan bahasa seperti Java, C#, atau Python, proses belajar C/C++ akan relatif mudah karena konsep dasarnya serupa. Pada tahap lanjutan, peserta akan diperkenalkan pada konsep pemrograman yang lebih kompleks, seperti pengelolaan memori dan pembuatan library.</p>
+
+<p>Di sisi lain, peserta lebih baik memiliki pengalaman di bidang perangkat keras atau elektronika. Meskipun materi akan dimulai dari dasar sehingga dapat diikuti oleh pemula di bidang hardware.</p>
+
+<p>Physical computing merupakan bidang lintas disiplin yang menggabungkan banyak area keilmuan, seperti teknik elektro, ilmu komputer, interaksi manusia–komputer, dan kecerdasan buatan. Karena cakupannya sangat luas, materi yang disajikan difokuskan pada topik-topik inti yang relevan bagi mahasiswa dengan latar belakang teknik atau informatika.</p>
