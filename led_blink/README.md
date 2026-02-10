@@ -4,7 +4,7 @@
 
 <p>Pada pertemuan ini, pembelajaran naik satu tingkat. LED tidak lagi menyala secara langsung, melainkan dikendalikan oleh program. Arduino akan mengatur tegangan pada pin GPIO sehingga LED dapat dinyalakan dan dimatikan sesuai perintah kode. Melalui kegiatan ini, kita mulai mempelajari dua keterampilan utama dalam sistem mikrokontroler, yaitu merancang rangkaian elektronik dan membuat program yang mengontrol rangkaian tersebut.</p>
 
-<p>Pada tugas pendahuluan, sebuah LED diperlukan. Dalam hal ini, anode pada LED (berkaki Panjang) dihubungkan pada pin 12 dan katoda (berkaki pendek) dihubungkan ke pin GND seperti yang terlihat pada Gambar.</p>
+<p>Pada tugas pendahuluan, sebuah LED diperlukan. Dalam hal ini, anode pada LED (berkaki Panjang) dihubungkan pada Pin 11 dan katoda (berkaki pendek) dihubungkan ke pin GND seperti yang terlihat pada Gambar.</p>
 
 <h2>Membuat Rangkaian</h2>
 <img src="../image/Screenshot 2026-02-05 090936.png" >
@@ -38,22 +38,22 @@
 
 Pastikan sambungkan wiring kabel sesuai dengan petunjuk berikut:
 <ul>
-  <li>(+) LED -------------- Pin 12</li>
+  <li>(+) LED -------------- Pin 11</li>
   <li>(-) LED -------------- Resistor</li>
   <li>Resistor ------------- Pin GND</li>
 </ul>
 
-<p>Pada tahap berikutnya, LED akan dikendalikan menggunakan program. Kita akan membuat kode C/C++ pada Arduino sehingga Pin 12 diberi tegangan 5V secara otomatis, yang menyebabkan LED menyala.</p>
+<p>Pada tahap berikutnya, LED akan dikendalikan menggunakan program. Kita akan membuat kode C/C++ pada Arduino sehingga Pin 11 diberi tegangan 5V secara otomatis, yang menyebabkan LED menyala.</p>
 
 <h2>Install Arduino IDE</h2>
 <p>Sebelum mulai memprogram Arduino, pastikan <a href="https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE">Arduino IDE</a> sudah terpasang di komputer Anda. Jika belum, unduh dan instal Arduino IDE dengan mengikuti panduan instalasi yang disediakan secara bertahap melalui tautan berikut <a href="https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE#installation-instructions">disini</a></p>
 
 <h2>Pengenalan GPIO</h2>
-<p>Pada tahap ini, kita mulai menyalakan LED menggunakan program dengan memberikan logika HIGH (5V) pada Pin 12. Selanjutnya, program tersebut akan diubah sehingga LED tidak hanya menyala terus, tetapi juga dapat berkedip. Untuk itu, kita perlu memahami konsep keluaran digital pada Arduino.</p>
+<p>Pada tahap ini, kita mulai menyalakan LED menggunakan program dengan memberikan logika HIGH (5V) pada Pin 11. Selanjutnya, program tersebut akan diubah sehingga LED tidak hanya menyala terus, tetapi juga dapat berkedip. Untuk itu, kita perlu memahami konsep keluaran digital pada Arduino.</p>
 
 <p>Arduino Uno memiliki 20 pin GPIO yang dapat digunakan untuk menerima atau mengirim sinyal digital, yaitu HIGH dan LOW. Sinyal ini dikendalikan melalui fungsi digitalRead() untuk membaca dan digitalWrite() untuk menulis nilai digital.</p>
 
-<p>Walaupun pin digital lain juga bisa digunakan, Pin 12 dipilih agar konsisten dengan pelajaran selanjutnya, sehingga proses belajar menjadi lebih sederhana dan tidak membingungkan.</p>
+<p>Walaupun pin digital lain juga bisa digunakan, Pin 11 dipilih agar konsisten dengan pelajaran selanjutnya, sehingga proses belajar menjadi lebih sederhana dan tidak membingungkan.</p>
 
 <img src="../image/ArduinoUno_DigitalIOPins.png">
 
@@ -77,10 +77,7 @@ Untuk lebih jelasnya, berikut pin I/O digtial dan analog
 
 <h2>Menghidupkan dan Mematikan LED pada Pin 12 Dengan Menggunakan Program</h2>
 
-<video width="100%" controls>
-  <source src="../video/led_blink.mp4" type="video/mp4">
-  Browser Anda tidak mendukung video.
-</video>
+https://github.com/user-attachments/assets/d73ae3f6-8689-45e6-a6dd-03096f7abbfc
 
 <p>LED Blink sebagai project Hello World di Embedded System dapat disimak sebagai berikut:</p>
 <table border="1" align="center" width="100%" cellpadding="0" cellspacing="0">
