@@ -79,6 +79,7 @@ Untuk lebih jelasnya, berikut pin I/O digtial dan analog
 
 <video width="100%" controls>
   <source src="../video/led_blink.mp4" type="video/mp4">
+  Browser Anda tidak mendukung video.
 </video>
 
 <p>LED Blink sebagai project Hello World di Embedded System dapat disimak sebagai berikut:</p>
