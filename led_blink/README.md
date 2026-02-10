@@ -10,7 +10,7 @@
 <img src="../image/Screenshot 2026-02-05 090936.png" >
 
 <h2>Alat dan Bahan</h2>
-<table border="1" cellpadding="10" cellspacing="0" align="center" width="100%">
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <th>Arduino</th>
     <th>LED</th>
@@ -19,10 +19,10 @@
 
   <tr align="center">
     <td>
-      <img src="../image/arduino_uno.png" width="250"><br>
+      <img src="../image/arduino_uno.png" width="260"><br>
     </td>
     <td>
-      <img src="../image/RedLED_Fritzing.png" width="120"><br>
+      <img src="../image/RedLED_Fritzing.png" width="130"><br>
     </td>
     <td>
       <img src="../image/Resistor220_Fritzing.png" width="200"><br>
@@ -32,16 +32,9 @@
   <tr align="center">
     <td>Arduino Uno, Leonardo, atau lainnya</td>
     <td>Red LED</td>
-    <td>220Ω Resistor</td>
+    <td>220Ω Resistor atau lainnya</td>
   </tr>
 </table>
-
-<ul>
-  <li>Arduino Uno</li>
-  <li>LED</li>
-  <li>Resistor</li>
-  <li>Breadboard</li>
-</ul>
 
 Pastikan sambungkan wiring kabel sesuai dengan petunjuk berikut:
 <ul>
