@@ -50,11 +50,11 @@ Pastikan sambungkan wiring kabel sesuai dengan petunjuk berikut:
 <h3>Bagaimana kita menghitung 20 pin I/O digital?</h3>
 <p>Pada Arduino Uno dan Leonardo, tulisan dan label pada papan sering membuat kita mengira hanya ada 14 pin digital. Padahal, jika dilihat secara keseluruhan, terdapat 20 pin digital I/O yang bisa digunakan. Untuk memastikan hal ini, kita dapat melihat diagram pinout resmi Arduino Uno yang menunjukkan semua pin yang tersedia.</p>
 
-<img src="embeddedsystem/image/ArduinoUno_OfficialPinOutDiagram.png">
+<img src="../image/ArduinoUno_OfficialPinOutDiagram.png">
 
 Untuk lebih jelasnya, berikut pin I/O digtial dan analog
 
-<img src="embeddedsystem/image/ArduinoUno_OfficialPinOutDiagram_DigitalIOPinsMarked.png">
+<img src="../image/ArduinoUno_OfficialPinOutDiagram_DigitalIOPinsMarked.png">
 
 <h2></h2>
-<img src="embeddedsystem/image/Footer.jpg">
+<img src="../image/Footer.jpg">
