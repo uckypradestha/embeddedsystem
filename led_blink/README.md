@@ -7,7 +7,7 @@
 <p>Pada tugas pendahuluan, sebuah LED diperlukan. Dalam hal ini, anode pada LED (berkaki Panjang) dihubungkan pada pin 12 dan katoda (berkaki pendek) dihubungkan ke pin GND seperti yang terlihat pada Gambar.</p>
 
 <h2>Membuat Rangkaian</h2>
-<img src="image/Screenshot 2026-02-05 090936.png" >
+<img src="../image/Screenshot 2026-02-05 090936.png" >
 
 <h2>Alat dan Bahan</h2>
 <ul>
@@ -36,7 +36,7 @@ Pastikan sambungkan wiring kabel sesuai dengan petunjuk berikut:
 
 <p>Walaupun pin digital lain juga bisa digunakan, Pin 12 dipilih agar konsisten dengan pelajaran selanjutnya, sehingga proses belajar menjadi lebih sederhana dan tidak membingungkan.</p>
 
-<img src="embeddedsystem/image/ArduinoUno_DigitalIOPins.png">
+<img src="../image/ArduinoUno_DigitalIOPins.png">
 
 <p>Anda dapat mengendalikan salah satu dari 20 pin digital I/O tersebut dengan menggunakan tiga fungsi berikut:</p>
 <ul>
