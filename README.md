@@ -30,3 +30,4 @@ Dengan kondisi ini, cara berinteraksi dengan komputer tidak lagi terbatas pada a
 Diagram, animasi, gambar, dan video dibuat menggunakan <a href="https://www.tinkercad.com/">Tinkercad Circuits</a>, <a href="https://fritzing.org/">Fritzing</a> dan <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">Microsoft Power Point</a>
 
 <h2></h2>
+<img src="image/Footer.jpg">
