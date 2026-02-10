@@ -10,6 +10,32 @@
 <img src="../image/Screenshot 2026-02-05 090936.png" >
 
 <h2>Alat dan Bahan</h2>
+<table border="1" cellpadding="10" cellspacing="0" align="center" width="100%">
+  <tr>
+    <th>Arduino</th>
+    <th>LED</th>
+    <th>Resistor</th>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <img src="../image/arduino_uno.png" width="250"><br>
+    </td>
+    <td>
+      <img src="../image/RedLED_Fritzing.png" width="120"><br>
+    </td>
+    <td>
+      <img src="../image/Resistor220_Fritzing.png" width="200"><br>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>Arduino Uno, Leonardo, atau lainnya</td>
+    <td>Red LED</td>
+    <td>220Ω Resistor</td>
+  </tr>
+</table>
+
 <ul>
   <li>Arduino Uno</li>
   <li>LED</li>
