@@ -5,7 +5,7 @@
 
 <p>Walaupun pin digital lain juga bisa digunakan, Pin 11 dipilih agar konsisten dengan pelajaran selanjutnya, sehingga proses belajar menjadi lebih sederhana dan tidak membingungkan.</p>
 
-<img src="image/ArduinoUno_DigitalIOPins.png">
+<img src="../image/ArduinoUno_DigitalIOPins.png">
 
 <p>Anda dapat mengendalikan salah satu dari 20 pin digital I/O tersebut dengan menggunakan tiga fungsi berikut:</p>
 <ul>
@@ -19,8 +19,11 @@
 <h2>Bagaimana kita menghitung 20 pin I/O digital?</h2>
 <p>Pada Arduino Uno dan Leonardo, tulisan dan label pada papan sering membuat kita mengira hanya ada 14 pin digital. Padahal, jika dilihat secara keseluruhan, terdapat 20 pin digital I/O yang bisa digunakan. Untuk memastikan hal ini, kita dapat melihat diagram pinout resmi Arduino Uno yang menunjukkan semua pin yang tersedia.</p>
 
-<img src="image/ArduinoUno_OfficialPinOutDiagram.png">
+<img src="../image/ArduinoUno_OfficialPinOutDiagram.png">
 
 Untuk lebih jelasnya, berikut pin I/O digtial dan analog
 
-<img src="image/ArduinoUno_OfficialPinOutDiagram_DigitalIOPinsMarked.png">
+<img src="../image/ArduinoUno_OfficialPinOutDiagram_DigitalIOPinsMarked.png">
+
+<h2></h2>
+<a href="https://komputer.ft.unsoed.ac.id/"><img src="../image/Footer.jpg"></a>
