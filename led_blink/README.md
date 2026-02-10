@@ -7,7 +7,7 @@
 <p>Pada tugas pendahuluan, sebuah LED diperlukan. Dalam hal ini, anode pada LED (berkaki Panjang) dihubungkan pada Pin 11 dan katoda (berkaki pendek) dihubungkan ke pin GND seperti yang terlihat pada Gambar.</p>
 
 <h2>Membuat Rangkaian</h2>
-<img src="../image/Screenshot 2026-02-05 090936.png" >
+<img src="../image/LED_Blink.png">
 
 <h2>Alat dan Bahan</h2>
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
