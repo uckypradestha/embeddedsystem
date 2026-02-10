@@ -36,7 +36,7 @@ Pastikan sambungkan wiring kabel sesuai dengan petunjuk berikut:
 
 <p>Walaupun pin digital lain juga bisa digunakan, Pin 12 dipilih agar konsisten dengan pelajaran selanjutnya, sehingga proses belajar menjadi lebih sederhana dan tidak membingungkan.</p>
 
-<img src="image/ArduinoUno_DigitalIOPins.png">
+<img src="embeddedsystem/image/ArduinoUno_DigitalIOPins.png">
 
 <p>Anda dapat mengendalikan salah satu dari 20 pin digital I/O tersebut dengan menggunakan tiga fungsi berikut:</p>
 <ul>
@@ -50,11 +50,11 @@ Pastikan sambungkan wiring kabel sesuai dengan petunjuk berikut:
 <h3>Bagaimana kita menghitung 20 pin I/O digital?</h3>
 <p>Pada Arduino Uno dan Leonardo, tulisan dan label pada papan sering membuat kita mengira hanya ada 14 pin digital. Padahal, jika dilihat secara keseluruhan, terdapat 20 pin digital I/O yang bisa digunakan. Untuk memastikan hal ini, kita dapat melihat diagram pinout resmi Arduino Uno yang menunjukkan semua pin yang tersedia.</p>
 
-<img src="image/ArduinoUno_OfficialPinOutDiagram.png">
+<img src="embeddedsystem/image/ArduinoUno_OfficialPinOutDiagram.png">
 
 Untuk lebih jelasnya, berikut pin I/O digtial dan analog
 
-<img src="image/ArduinoUno_OfficialPinOutDiagram_DigitalIOPinsMarked.png">
+<img src="embeddedsystem/image/ArduinoUno_OfficialPinOutDiagram_DigitalIOPinsMarked.png">
 
 <h2></h2>
-<img src="image/Footer.jpg">
+<img src="embeddedsystem/image/Footer.jpg">
