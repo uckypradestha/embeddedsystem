@@ -41,8 +41,8 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 <h3><a href="">Modul ADC dan DAC</a></h3>
 <p>Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.</p>
 
-<h3><a href="">Interrupt dan Debugging</a></h3>
-<p>Praktikum ini membahas penggunaan interrupt untuk menangani kejadian secara real-time serta teknik dasar debugging guna menganalisis dan memperbaiki kesalahan program pada sistem mikrokontroler.</p>
+<h3><a href="">Interrupt</a></h3>
+<p>Praktikum ini membahas penggunaan interrupt untuk menangani kejadian secara real-time dengan pengenalan Interrupt Service Routine.</p>
 
 <h3><a href="">Real-Time Operating System (RTOS)</a></h3>
 <p>Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.</p>
