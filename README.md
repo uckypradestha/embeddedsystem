@@ -48,6 +48,28 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 
 <p>Praktikum yang dilakukan akan mendukung dalam pembuatan project akhir yaitu sistem embedded terintegrasi dengan menggunakan Arduino Uno</p>
 
+<h2>Bagian-bagian Pada Arduino</h2>
+<p>Dengan mengambil contoh sebuah papan Arduino tipe USB, bagian-bagiannya dapat dijelaskan sebagai berikut.</p>
+
+<img src="image/Pengenalan Arduino.jpg">
+
+<p>Berikut penjelasan singkat terkai dengan fungsi bagian pada papan Arduino:</p>
+<ol>
+  <li><b>Mikrokontroler ATmega328P:</b> “Otak” Arduino. Bagian ini yang menjalankan program, memproses data, dan mengontrol semua komponen yang terhubung.</li>
+  <li><b>Digital Pin I/O (Input/Output):</b> Pin untuk membaca atau mengirim sinyal digital (hanya 0 atau 1 / LOW atau HIGH). Contoh: menyalakan LED, membaca tombol.</li>
+  <li><b>Analog Pin I/O:</b> Pin untuk membaca nilai analog (nilai bertingkat, bukan hanya 0 dan 1). Contoh: membaca sensor suhu, cahaya, atau potensiometer.</li>
+  <li><b>Power Pin:</b> Pin untuk memberi daya listrik ke Arduino atau komponen lain (3.3V, 5V, GND)</li>
+  <li><b>USB Connector:</b> Untuk menghubungkan Arduino ke komputer. Fungsinya upload program dan memberi daya.</li>
+  <li><b>Serial Pin (Tx = Out, Rx = In):</b> Untuk komunikasi data dengan perangkat lain. Tx untuk mengirim data, Rx untuk menerima data</li>
+  <li><b>Onboard LED:</b> LED bawaan Arduino (biasanya di pin 13). Digunakan untuk percobaan atau indikator program.</li>
+  <li><b>Reset:</b> Tombol untuk mengulang program dari awal.</li>
+  <li><b>USB Interface:</b> Bagian yang mengubah komunikasi USB dari komputer menjadi komunikasi serial agar bisa dipahami mikrokontroler.</li>
+  <li><b>Power Connector (Jack DC):</b> Untuk memberi daya dari adaptor atau baterai eksternal.</li>
+  <li><b>Oscillator:</b> Untuk memberi daya dari adaptor atau baterai eksternal.</li>
+</ol>
+
+<p>Tanpa melakukan konfigurasi apapun, begitu sebuah papan Arduino dikeluarkan dari kotak pembungkusnya ia dapat langsung disambungkan ke sebuah komputer melalui kabel USB. Selain berfungsi sebagai penghubung untuk pertukaran data, kabel USB ini juga akan mengalirkan arus DC 5 Volt kepada papan Arduino sehingga praktis tidak diperlukan sumber daya dari luar. Saat mendapat suplai daya, lampu LED indikator daya pada papan Arduino akan menyala menandakan bahwa ia siap bekerja. </p>
+
 <h2>Acknowledgments</h2>
 Diagram, animasi, gambar, dan video dibuat menggunakan <a href="https://www.tinkercad.com/">Tinkercad Circuits</a>, <a href="https://fritzing.org/">Fritzing</a> dan <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">Microsoft Power Point</a>
 
