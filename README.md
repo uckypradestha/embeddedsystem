@@ -47,7 +47,7 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 <h3><a href="">Real-Time Operating System (RTOS)</a></h3>
 <p>Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.</p>
 
-<p>Pada tahap pengenalan dengan arduino dilakukan dengan </p>
+<p>Praktikum yang dilakukan akan mendukung dalam pembuatan project akhir yaitu sistem embedded terintegrasi dengan menggunakan Arduino Uno</p>
 
 <h2>Acknowledgments</h2>
 Diagram, animasi, gambar, dan video dibuat menggunakan <a href="https://www.tinkercad.com/">Tinkercad Circuits</a>, <a href="https://fritzing.org/">Fritzing</a> dan <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">Microsoft Power Point</a>
