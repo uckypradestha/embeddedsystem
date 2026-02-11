@@ -25,5 +25,43 @@ Untuk lebih jelasnya, berikut pin I/O digtial dan analog
 
 <img src="../image/ArduinoUno_OfficialPinOutDiagram_DigitalIOPinsMarked.png">
 
+<h2>Menghidupkan LED Dengan Pin GPIO Arduino</h2>
+<p>Pada kegiatan pembelajaran pertama ini, kita akan menggunakan Arduino untuk menyalakan sebuah LED. Kita belum akan menulis kode apa pun. Tujuan utama kegiatan ini adalah untuk mulai mengenal perangkat keras Arduino serta cara menghubungkan komponen ke pin-pin Arduino. Pemrograman akan diperkenalkan pada pelajaran berikutnya.</p>
+
+<img src="../image/Turn on LED.png">
+
+<h3>Alat dan Bahan</h3>
+<p>Dalam percobaan sederhana ini, berikut alat dan bahan yang digunakan:</p>
+
+<div align="center">
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th>Arduino</th>
+    <th>LED</th>
+    <th>Resistor</th>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <img src="../image/arduino_uno.png" width="260"><br>
+    </td>
+    <td>
+      <img src="../image/RedLED_Fritzing.png" width="130"><br>
+    </td>
+    <td>
+      <img src="../image/Resistor220_Fritzing.png" width="200"><br>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>Arduino Uno, Leonardo, atau lainnya</td>
+    <td>Red LED</td>
+    <td>220Ω Resistor atau lainnya</td>
+  </tr>
+</table>
+</div>
+
+https://github.com/user-attachments/assets/f7cdb8a6-88bf-4d08-8d53-e44660e340a3
+
 <h2></h2>
 <a href="https://komputer.ft.unsoed.ac.id/"><img src="../image/Footer.jpg"></a>
