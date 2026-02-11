@@ -10,6 +10,8 @@
 <img src="../../image/LED_Blink.png">
 
 <h2>Alat dan Bahan</h2>
+<p>Berikut adalah alat dan bahan pada percobaan LED Blink dengan menggunakan Arduino:</p>
+<div align="center">
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <th>Arduino</th>
@@ -35,6 +37,7 @@
     <td>220Ω Resistor atau lainnya</td>
   </tr>
 </table>
+</div>
 
 Pastikan sambungkan wiring kabel sesuai dengan petunjuk berikut:
 <ul>
