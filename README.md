@@ -28,6 +28,10 @@ Dengan kondisi ini, cara berinteraksi dengan komputer tidak lagi terbatas pada a
 <h2>Install Arduino IDE</h2>
 <p>Sebelum mulai memprogram Arduino, pastikan <a href="https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE">Arduino IDE</a> sudah terpasang di komputer Anda. Jika belum, unduh dan instal Arduino IDE dengan mengikuti panduan instalasi yang disediakan secara bertahap melalui tautan berikut <a href="https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE#installation-instructions">disini</a></p>
 
+```python
+from ultralytic import YOLO
+```
+
 <h2>Modul Praktikum Embedded System dan Mikrokontroler</h2>
 Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
 
