@@ -23,12 +23,28 @@ Dengan kondisi ini, cara berinteraksi dengan komputer tidak lagi terbatas pada a
 
 <p>Di sisi lain, peserta lebih baik memiliki pengalaman di bidang perangkat keras atau elektronika. Meskipun materi akan dimulai dari dasar sehingga dapat diikuti oleh pemula di bidang hardware.</p>
 
-<p>Physical computing merupakan bidang lintas disiplin yang menggabungkan banyak area keilmuan, seperti teknik elektro, ilmu komputer, interaksi manusia–komputer, dan kecerdasan buatan. Karena cakupannya sangat luas, materi yang disajikan difokuskan pada topik-topik inti yang relevan bagi mahasiswa dengan latar belakang teknik atau informatika. S</p>
+<p>Physical computing merupakan bidang lintas disiplin yang menggabungkan banyak area keilmuan, seperti teknik elektro, ilmu komputer, interaksi manusia–komputer, dan kecerdasan buatan. Karena cakupannya sangat luas, materi yang disajikan difokuskan pada topik-topik inti yang relevan bagi mahasiswa dengan latar belakang teknik atau informatika.</p>
 
-<h2>Install Arduino IDE</h2>
+## Install Arduino IDE
 <p>Sebelum mulai memprogram Arduino, pastikan <a href="https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE">Arduino IDE</a> sudah terpasang di komputer Anda. Jika belum, unduh dan instal Arduino IDE dengan mengikuti panduan instalasi yang disediakan secara bertahap melalui tautan berikut <a href="https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE#installation-instructions">disini</a></p>
 
-<h2>Modul Praktikum Embedded System dan Mikrokontroler</h2>
+<p>Secara default jika IDE sudah berhasil diinstal dan dibuka, jendela awal akan memunculkan code sebagai berikut</p>
+
+```cpp
+void setup() {
+  // put your setup code here, to run once:
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
+```
+
+<p>Selamat berkreasi</p>
+
+## Modul Praktikum Embedded System dan Mikrokontroler
 Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
 
 <h3><a href="/Modul 1: Konsep GPIO">Konsep GPIO</a></h3>
