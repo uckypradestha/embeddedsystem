@@ -89,7 +89,7 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 ## Acknowledgments
 Diagram, animasi, gambar, dan video dibuat menggunakan <a href="https://www.tinkercad.com/">Tinkercad Circuits</a>, <a href="https://fritzing.org/">Fritzing</a> dan <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">Microsoft Power Point</a>
 
-## 🤝 KONTRIBUTOR
+## 🤝 Kontributor
 
 Terima kasih kepada semua kontributor yang telah berkontribusi 🙏
 
