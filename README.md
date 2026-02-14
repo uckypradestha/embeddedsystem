@@ -93,9 +93,9 @@ Diagram, animasi, gambar, dan video dibuat menggunakan <a href="https://www.tink
 
 Terima kasih kepada semua kontributor yang telah berkontribusi 🙏
 
-<!-- <a href="https://github.com/uckypradestha/embeddedsystem/graphs/contributors">
+<a href="https://github.com/uckypradestha/embeddedsystem/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=uckypradestha/embeddedsystem&max=1000" />
-</a> -->
+</a>
 
 <h2></h2>
 <a href="https://komputer.ft.unsoed.ac.id/"><img src="image/Footer.jpg"></a>
