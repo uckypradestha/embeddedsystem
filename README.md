@@ -23,12 +23,28 @@ Dengan kondisi ini, cara berinteraksi dengan komputer tidak lagi terbatas pada a
 
 <p>Di sisi lain, peserta lebih baik memiliki pengalaman di bidang perangkat keras atau elektronika. Meskipun materi akan dimulai dari dasar sehingga dapat diikuti oleh pemula di bidang hardware.</p>
 
-<p>Physical computing merupakan bidang lintas disiplin yang menggabungkan banyak area keilmuan, seperti teknik elektro, ilmu komputer, interaksi manusia–komputer, dan kecerdasan buatan. Karena cakupannya sangat luas, materi yang disajikan difokuskan pada topik-topik inti yang relevan bagi mahasiswa dengan latar belakang teknik atau informatika. S</p>
+<p>Physical computing merupakan bidang lintas disiplin yang menggabungkan banyak area keilmuan, seperti teknik elektro, ilmu komputer, interaksi manusia–komputer, dan kecerdasan buatan. Karena cakupannya sangat luas, materi yang disajikan difokuskan pada topik-topik inti yang relevan bagi mahasiswa dengan latar belakang teknik atau informatika.</p>
 
-<h2>Install Arduino IDE</h2>
+## Install Arduino IDE
 <p>Sebelum mulai memprogram Arduino, pastikan <a href="https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE">Arduino IDE</a> sudah terpasang di komputer Anda. Jika belum, unduh dan instal Arduino IDE dengan mengikuti panduan instalasi yang disediakan secara bertahap melalui tautan berikut <a href="https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE#installation-instructions">disini</a></p>
 
-<h2>Modul Praktikum Embedded System dan Mikrokontroler</h2>
+<p>Secara default jika IDE sudah berhasil diinstal dan dibuka, jendela awal akan memunculkan code sebagai berikut</p>
+
+```cpp
+void setup() {
+  // put your setup code here, to run once:
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
+```
+
+<p>Selamat berkreasi</p>
+
+## Modul Praktikum Embedded System dan Mikrokontroler
 Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
 
 <h3><a href="/Modul 1: Konsep GPIO">Konsep GPIO</a></h3>
@@ -70,11 +86,32 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 
 <p>Tanpa melakukan konfigurasi apapun, begitu sebuah papan Arduino dikeluarkan dari kotak pembungkusnya ia dapat langsung disambungkan ke sebuah komputer melalui kabel USB. Selain berfungsi sebagai penghubung untuk pertukaran data, kabel USB ini juga akan mengalirkan arus DC 5 Volt kepada papan Arduino sehingga praktis tidak diperlukan sumber daya dari luar. Saat mendapat suplai daya, lampu LED indikator daya pada papan Arduino akan menyala menandakan bahwa ia siap bekerja. </p>
 
-<h2>Acknowledgments</h2>
+## Acknowledgments
 Diagram, animasi, gambar, dan video dibuat menggunakan <a href="https://www.tinkercad.com/">Tinkercad Circuits</a>, <a href="https://fritzing.org/">Fritzing</a> dan <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">Microsoft Power Point</a>
 
-## 🤝 KONTRIBUTOR
+## 🤝 Kontributor
 
+Terima kasih kepada semua kontributor yang telah berkontribusi 🙏
+
+<a href="https://github.com/uckypradestha/embeddedsystem/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=uckypradestha/embeddedsystem&max=1000" />
+</a>
 
 <h2></h2>
 <a href="https://komputer.ft.unsoed.ac.id/"><img src="image/Footer.jpg"></a>
+
+<p align="center">
+  <br> <a href="https://twitter.com/uckypradestha" target="blank">
+    <img src="https://img.shields.io/badge/-Twitter-%23042AFF?style=flat-square&logo=twitter&logoColor=%23042AFF&labelColor=%23ffffff00" height="35" hspace="15" />
+  </a>
+  <a href="https://linkedin.com/in/uckypradestha" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23042AFF?style=flat-square&logo=linkedin&logoColor=%23042AFF&labelColor=%23ffffff00" height="35" hspace="15" />
+  </a>
+  <a href="https://instagram.com/pradestha" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23042AFF?style=flat-square&logo=instagram&logoColor=%23042AFF&labelColor=%23ffffff00" height="35" hspace="15" />
+  </a>
+  <a href="https://www.youtube.com/c/uckypradestha" target="blank">
+    <img src="https://img.shields.io/badge/-YouTube-%23042AFF?style=flat-square&logo=youtube&logoColor=%23042AFF&labelColor=%23ffffff00" height="35" hspace="15" />
+  </a>
+
+  <br> </p>
