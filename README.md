@@ -101,9 +101,17 @@ Terima kasih kepada semua kontributor yang telah berkontribusi 🙏
 <a href="https://komputer.ft.unsoed.ac.id/"><img src="image/Footer.jpg"></a>
 
 <p align="center">
-<a href="https://twitter.com/uckypradestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uckypradestha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uckypradestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uckypradestha" height="30" width="40" /></a>
-<a href="https://instagram.com/pradestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradestha" height="30" width="40" /></a>
-<a href="https://medium.com/@uckypradestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@uckypradestha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uckypradestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckypradestha" height="30" width="40" /></a>
-</p>
+  <br> <a href="https://twitter.com/uckypradestha" target="blank">
+    <img src="https://img.shields.io/badge/-Twitter-%23042AFF?style=flat-square&logo=twitter&logoColor=%23042AFF&labelColor=%23ffffff00" height="35" hspace="15" />
+  </a>
+  <a href="https://linkedin.com/in/uckypradestha" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23042AFF?style=flat-square&logo=linkedin&logoColor=%23042AFF&labelColor=%23ffffff00" height="35" hspace="15" />
+  </a>
+  <a href="https://instagram.com/pradestha" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23042AFF?style=flat-square&logo=instagram&logoColor=%23042AFF&labelColor=%23ffffff00" height="35" hspace="15" />
+  </a>
+  <a href="https://www.youtube.com/c/uckypradestha" target="blank">
+    <img src="https://img.shields.io/badge/-YouTube-%23042AFF?style=flat-square&logo=youtube&logoColor=%23042AFF&labelColor=%23ffffff00" height="35" hspace="15" />
+  </a>
+
+  <br> </p>
