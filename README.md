@@ -6,7 +6,7 @@
 
 <img src="image/arduino-build-electronic-projects.jpg">
 
-<h2>Mengapa Mempelajari Physical Computing?</h2>
+<h2>🔗 Mengapa Mempelajari Physical Computing?</h2>
 
 Physical computing dipelajari karena memungkinkan komputer berinteraksi langsung dengan dunia fisik melalui sensor dan aktuator, sehingga komputasi tidak lagi terbatas pada layar, tetapi hadir secara kontekstual, cerdas, dan bermakna dalam kehidupan nyata. Selain itu, mempelajari physical computing karena adanya tiga tren teknologi dan sosial yang saling berkaitan:
 <ul>
@@ -17,7 +17,7 @@ Physical computing dipelajari karena memungkinkan komputer berinteraksi langsung
 
 Dengan kondisi ini, cara berinteraksi dengan komputer tidak lagi terbatas pada antarmuka grafis tradisional seperti jendela, ikon, menu, dan pointer. Physical computing menghadirkan model interaksi baru yang lebih kontekstual, alami, dan terhubung langsung dengan dunia fisik.
 
-<h2>Prasyarat Pembelajaran</h2>
+<h2>📚 Prasyarat Pembelajaran</h2>
 
 <p>Untuk mengikuti materi ini, peserta diharapkan sudah memiliki pengalaman dasar dalam pemrograman, seperti memahami variabel, perulangan, fungsi, dan percabangan. Pemrograman mikrokontroler akan menggunakan bahasa C/C++, tetapi peserta tidak harus sudah menguasai C/C++ sebelumnya. Jika sudah pernah menggunakan bahasa seperti Java, C#, atau Python, proses belajar C/C++ akan relatif mudah karena konsep dasarnya serupa. Pada tahap lanjutan, peserta akan diperkenalkan pada konsep pemrograman yang lebih kompleks, seperti pengelolaan memori dan pembuatan library.</p>
 
@@ -42,7 +42,8 @@ void loop() {
 }
 ```
 
-<p>Selamat berkreasi</p>
+<h3>Dokumentasi</h3>
+<p>Sebagai tahap awal memulai menggunakan mikrokontroler Arduino Uno, secara lengkap dapat disimak pada dokumentasi yang telah disediakan oleh Arduino yang dapat diakses melalui <a href="https://docs.arduino.cc/tutorials/uno-rev3/getting-started/?_gl=1*i7yfbm*_up*MQ..*_ga*MTM4NzkzOTY3Ni4xNzcxMDc4MjAx*_ga_NEXN8H46L5*czE3NzEwNzgxOTgkbzEkZzAkdDE3NzEwNzgxOTgkajYwJGwwJGgyNzQ3MjQ5NQ..">Arduino Docs</a></p>
 
 ## Modul Praktikum Embedded System dan Mikrokontroler
 Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
