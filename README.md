@@ -1,4 +1,4 @@
-<h1>Selamat Datang di Mata Kuliah Praktikum Embedded System dan Sistem Mikrokontroler</h1>
+<img src="image/embee.png">
 
 <p>Mikrokontroler adalah inti sistem embedded. Mikrokontroler hanyalah IC tunggal yang tidak dapat langsung digunakan tanpa rangkaian pendukung. Project board hadir sebagai solusi untuk mempermudah proses belajar dan eksperimen. Arduino merupakan project board yang mengintegrasikan mikrokontroler dengan rangkaian pendukung sehingga siap digunakan.</p>
 
