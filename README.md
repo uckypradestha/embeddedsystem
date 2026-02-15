@@ -42,10 +42,10 @@ void loop() {
 }
 ```
 
-<h3>Dokumentasi</h3>
+## 📄 Dokumentasi
 <p>Sebagai tahap awal memulai menggunakan mikrokontroler Arduino Uno, secara lengkap dapat disimak pada dokumentasi yang telah disediakan oleh Arduino yang dapat diakses melalui <a href="https://docs.arduino.cc/tutorials/uno-rev3/getting-started/?_gl=1*i7yfbm*_up*MQ..*_ga*MTM4NzkzOTY3Ni4xNzcxMDc4MjAx*_ga_NEXN8H46L5*czE3NzEwNzgxOTgkbzEkZzAkdDE3NzEwNzgxOTgkajYwJGwwJGgyNzQ3MjQ5NQ..">Arduino Docs</a></p>
 
-## Modul Praktikum Embedded System dan Mikrokontroler
+## 🗂️ Modul Praktikum Embedded System dan Mikrokontroler
 Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
 
 <h3><a href="/Modul 1: Konsep GPIO">Konsep GPIO</a></h3>
@@ -65,7 +65,7 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 
 <p>Praktikum yang dilakukan akan mendukung dalam pembuatan project akhir yaitu sistem embedded terintegrasi dengan menggunakan Arduino Uno</p>
 
-<h2>Bagian-bagian Pada Arduino</h2>
+<h2>⚙️ Bagian-bagian Pada Arduino</h2>
 <p>Dengan mengambil contoh sebuah papan Arduino tipe USB, bagian-bagiannya dapat dijelaskan sebagai berikut.</p>
 
 <img src="image/Pengenalan Arduino.jpg">
@@ -87,7 +87,7 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 
 <p>Tanpa melakukan konfigurasi apapun, begitu sebuah papan Arduino dikeluarkan dari kotak pembungkusnya ia dapat langsung disambungkan ke sebuah komputer melalui kabel USB. Selain berfungsi sebagai penghubung untuk pertukaran data, kabel USB ini juga akan mengalirkan arus DC 5 Volt kepada papan Arduino sehingga praktis tidak diperlukan sumber daya dari luar. Saat mendapat suplai daya, lampu LED indikator daya pada papan Arduino akan menyala menandakan bahwa ia siap bekerja. </p>
 
-## Acknowledgments
+## ⛓️ Acknowledgments
 Diagram, animasi, gambar, dan video dibuat menggunakan <a href="https://www.tinkercad.com/">Tinkercad Circuits</a>, <a href="https://fritzing.org/">Fritzing</a> dan <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">Microsoft Power Point</a>
 
 ## 🤝 Kontributor
