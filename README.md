@@ -65,6 +65,14 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 
 <p>Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS)</p>
 
+<h2>💡 Laporan Praktikum</h2>
+<p>Setiap praktikum yang telah selesai dilakukan hasilnya dikumpulkan dalam bentuk laporan dan Kode yang digunakan melalui <a href="https://eldiru.unsoed.ac.id/">eLdiru</a> (ruang unggah disediakan dimasing-masing pertemuan) dengan format sebagai berikut:</p>
+<p>Nama file laporan: [kode mata kuliah]_[modul ke]_[NIM] contoh TK2440005_01_H1H022001</p>
+
+<p>Dikirimkan dalam bentuk attachment dengan format .pdf bentuk laporan seperti template berikut ini.</p>
+
+<h3><a href="https://docs.google.com/document/d/17EwpGksKAiaKBgLu6zKR_RNZT5vykKdZ/edit?usp=sharing&ouid=114215355724116733257&rtpof=true&sd=true"> >>TEMPLATE LAPORAN PRAKTIKUM<< </a></h3>
+
 <h2>⚙️ Bagian-bagian Pada Arduino</h2>
 <p>Dengan mengambil contoh sebuah papan Arduino tipe USB, bagian-bagiannya dapat dijelaskan sebagai berikut.</p>
 
