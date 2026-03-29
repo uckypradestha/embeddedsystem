@@ -50,7 +50,7 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 
 <p>Berikut projectnya:</p>
 
-<h3><a href="/Modul 1: Percabangan dan Perulangan">Mini Project 1 : Pemrograman Input Output</a></h3>
+<h3><a href="/Mini Project 1: Pemrograman Input dan Output">Mini Project 1 : Pemrograman Input Output</a></h3>
 <p>Project ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.</p>
 
 <h3><a href="/Modul 2: Pemrograman Input Output">Mini Project 2 : Interrupt dan Timer</a></h3>
