@@ -45,33 +45,42 @@ void loop() {
 ## 📄 Dokumentasi
 <p>Sebagai tahap awal memulai menggunakan mikrokontroler Arduino Uno, secara lengkap dapat disimak pada dokumentasi yang telah disediakan oleh Arduino yang dapat diakses melalui <a href="https://docs.arduino.cc/tutorials/uno-rev3/getting-started/?_gl=1*i7yfbm*_up*MQ..*_ga*MTM4NzkzOTY3Ni4xNzcxMDc4MjAx*_ga_NEXN8H46L5*czE3NzEwNzgxOTgkbzEkZzAkdDE3NzEwNzgxOTgkajYwJGwwJGgyNzQ3MjQ5NQ..">Arduino Docs</a></p>
 
-## 🗂️ Modul Praktikum Embedded System dan Mikrokontroler
-Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
+## 🗂️ Mini Project Embedded System dan Mikrokontroler
+Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Mini Project disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS) sebagai pendukung untuk project akhir yang akan dipresentasikan pada akhir perkuliahan sebagai bentuk Project Based Learning (PjBL).
 
-<h3><a href="/Modul 1: Konsep GPIO">Konsep GPIO</a></h3>
-<p>Praktikum ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.</p>
+<p>Berikut projectnya:</p>
 
-<h3><a href="">Komunikasi Serial</a></h3>
+<h3><a href="/Modul 1: Percabangan dan Perulangan">Mini Project 1 : Pemrograman Input Output</a></h3>
+<p>Project ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.</p>
+
+<h3><a href="/Modul 2: Pemrograman Input Output">Mini Project 2 : Interrupt dan Timer</a></h3>
+<p>Project ini menggunakan interrupt dan timer untuk membuat sistem yang dapat merespons tombol secara cepat (interrupt) sambil menjalankan proses berbasis waktu seperti LED berkedip (timer) tanpa saling mengganggu.</p>
+
+<h3><a href="/Modul 3: Serial Communication">Mini Project 3: Komunikasi Serial</a></h3>
 <p>Praktikum ini memperkenalkan komunikasi serial untuk pertukaran data antara mikrokontroler dan komputer, termasuk pengiriman dan penerimaan data melalui Serial Monitor sebagai sarana monitoring dan debugging sistem.</p>
 
-<h3><a href="">Modul ADC dan DAC</a></h3>
-<p>Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.</p>
+<h3><a href="/Modul 4: ADC dan DAC">Mini Project 4: ADC dan DAC</a></h3>
+<p>Project ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.</p>
 
-<h3><a href="">Interrupt</a></h3>
-<p>Praktikum ini membahas penggunaan interrupt untuk menangani kejadian secara real-time dengan pengenalan Interrupt Service Routine.</p>
+<h3><a href="/Modul 5 : RTOS">Mini Project 5: Real-Time Operating System (RTOS)</a></h3>
+<p>Project ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.</p>
 
-<h3><a href="">Real-Time Operating System (RTOS)</a></h3>
-<p>Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.</p>
-
-<p>Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS)</p>
-
-<h2>💡 Laporan Praktikum</h2>
-<p>Setiap praktikum yang telah selesai dilakukan hasilnya dikumpulkan dalam bentuk laporan dan Kode yang digunakan melalui <a href="https://eldiru.unsoed.ac.id/">eLdiru</a> (ruang unggah disediakan dimasing-masing pertemuan) dengan format sebagai berikut:</p>
-<p>Nama file laporan: [kode mata kuliah]_[modul ke]_[NIM] contoh TK2440005_01_H1H022001</p>
-
-<p>Dikirimkan dalam bentuk attachment dengan format .pdf bentuk laporan seperti template berikut ini.</p>
-
-<h3><a href="https://docs.google.com/document/d/17EwpGksKAiaKBgLu6zKR_RNZT5vykKdZ/edit?usp=sharing&ouid=114215355724116733257&rtpof=true&sd=true"> >>TEMPLATE LAPORAN PRAKTIKUM<< </a></h3>
+<h2>💡Ketentuan Laporan Project</h2>
+<p>Project ini harus didokumentasikan dan dikumpulkan dengan memenuhi ketentuan berikut:</p>
+<ul>
+  <li>Mahasiswa wajib mengunggah seluruh kode program ke repository GitHub.</li>
+  <li>Repository harus memiliki struktur yang rapi dan disertai file README.md.</li>
+  <li>Rangkaian harus dibuat dan dijalankan menggunakan Tinkercad.</li>
+  <li>Sertakan link atau screenshot hasil simulasi sebagai bukti di file README.md.</li>
+  <li>Mahasiswa wajib menyusun laporan dalam bentuk makalah yang berisi:</li>
+  <ul>
+    <li>Latar belakang</li>
+    <li>Tujuan</li>
+    <li>Penjelasan sistem</li>
+    <li>Hasil dan analisis</li>
+    <li>Kesimpulan</li>
+  </ul>
+</ul>
 
 <h2>⚙️ Bagian-bagian Pada Arduino</h2>
 <p>Dengan mengambil contoh sebuah papan Arduino tipe USB, bagian-bagiannya dapat dijelaskan sebagai berikut.</p>
